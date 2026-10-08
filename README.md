@@ -16,4 +16,3 @@ This direct quantification of MP mass budget in coastal shelf sediments offers a
 refining global mass budget models, to assess the interactions between environmental compartments.
 In both parts, we underline the importance of data alignment by particle size extrapolation to enable
 reliable study inter-comparisons.
-UPDATE BITCHES
